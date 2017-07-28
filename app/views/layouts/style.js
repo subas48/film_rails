@@ -1,6 +1,3 @@
-/**
- * Created by kamal on 27/07/17.
- */
 
 function myFunction() {
     // Declare variables
